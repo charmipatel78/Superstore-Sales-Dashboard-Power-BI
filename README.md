@@ -110,7 +110,7 @@ Summary File/
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Dashboard Image/Bottleneck-Dashboard.png)
+![Dashboard](Dashboard%20Image/Bottleneck-Dashboard.png)
 
 ---
 
