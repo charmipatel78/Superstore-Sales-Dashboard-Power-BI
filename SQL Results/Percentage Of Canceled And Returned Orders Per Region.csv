@@ -1,0 +1,5 @@
+Region,TotalOrders,CancelledOrders,ReturnedOrders,Cancel_Percentage,Return_Percentage
+East,15057,2316,2303,15.38,15.30
+South,14976,2280,2213,15.22,14.78
+West,15029,2171,2312,14.45,15.38
+North,14938,2186,2281,14.63,15.27
